@@ -1,0 +1,457 @@
+id	en	reason	propose	verify	note
+T0145	instability induced flow turbulence	含未定	未定	未定	仅为文献标题片段，无对应中文译法证据；证据仅为英文文献标题片段，无对应中文译法
+T0156	layer after reshock velocity	含未定	未定	未定	原文为标题片段，无对应中文译法证据；截断短语，语义不完整
+T0210	words shock	含未定	未定	未定	未定；原文为 Key words: shock waves，应拆为 shock waves
+T0225	density velocity	含未定	未定	未定	证据为字段罗列片段（density, velocity and temperature fields），非术语；证据为“density, velocity and temperature fields”字段罗列片段，非术语
+T0242	Brouillette The Richtmyer-Meshkov instability	含未定	未定	未定	参考文献著录项，不作术语判定；参考文献标题，不作术语判定；用户裁定名称用 RM
+T0244	interaction under Richtmyer-Meshkov instability	含未定	未定	未定	标题性短语，不作术语判定；出自文献标题，不作术语判定；用户裁定名称用 RM
+T0247	uid layer after reshock	含未定	未定	未定	原文拼写残缺，不作术语判定；原文缺字，疑为 fluid layer after reshock
+T0266	predict the perturbation	含未定	未定	未定	证据仅为句子片段，不作术语收录；证据为谓语片段，无对应术语
+T0274	predict the perturbation growth	含未定	未定	未定	不作术语收录；证据为谓语片段，无对应术语
+T0278	Progress toward shock	含未定	未定	未定	文献标题片段，非术语
+T0282	mean density	缺一遍判定			
+T0283	transverse velocity	缺一遍判定			
+T0287	instability induced mixing	缺一遍判定			
+T0292	ected waves	含未定	未定	未定	疑为reflected或affected waves截断；词条残缺（疑为reflected waves截断），证据句无对应内容
+T0302	toward shock	含未定	未定	未定	标题片段，非独立术语；系标题片段，非独立术语
+T0303	instability when shock	含未定	未定	未定	标题片段，非独立术语；系标题片段，非独立术语
+T0349	affect Rayleigh Taylor instability	含未定	未定	未定	证据为英文文献标题片段，无对应中文术语；证据为英文标题片段，无中文译法可依
+T0351	spike bubble	含未定	未定	未定	应分列为尖钉/气泡两词条；证据中 spike、bubble 为并列分列词，应拆为两条
+T0370	Late-time growth rate mixing	含未定	未定	未定	证据为多词并列标题片段，非单一术语；证据为标题片段，应拆分
+T0382	instability shock	含未定	未定	未定	证据为关键词列表，非术语；原文为 instability, shock waves 两个独立关键词
+T0386	along the shock	含未定	未定	未定	非独立术语，随上下文译为「沿激波阵面」；介词短语非术语，且可指沿激波阵面或沿激波传播方向
+T0398	accelerated density	含未定	未定	未定	原文为 accelerated density stratifications，非独立术语，中文译法无据；证据为 accelerated density stratifications 片段，不宜单列
+T0411	instability small-scale perturbations	含未定	未定	未定	标题片段，疑指 small-scale perturbations（小尺度扰动），不作定名；标题片段，实指 small-scale perturbations，需拆分另立
+T0413	occurs when shock	含未定	未定	未定	句子片段，非术语；句子片段，非术语
+T0433	distance between the spike	含未定	未定	未定	证据为英文残句（spike 与 bubble 峰间距），非独立术语，无中文译法证据；证据仅为定义句片段，无中文译法，不拆分造词
+T0434	instabilities for all density	含未定	未定	未定	文献题名截断（…for all density ratios），非术语，不臆造译名；标题截断，非术语
+T0435	instability late-time scaling laws	含未定	未定	未定	题名截断片段，late-time scaling laws 无中文出处，暂不判定；标题截断，晚期/后期译法未定
+T0436	occurs when shock wave	含未定	未定	未定	定义性从句片段，非术语；句子片段，非术语
+T0438	Scale invariant mixing rates	含未定	未定	未定	题名片段，标度不变混合率无中文出处佐证；标题截断，非术语
+T0440	Simulation for Incompressible Flows	含未定	未定	未定	专著题名片段（Large Eddy Simulation for Incompressible Flows），非术语；书名著录，非术语
+T0443	predict the amplitude	含未定	未定	未定	动宾短语片段，非术语；动词短语，非术语
+T0452	Mach shock wave	含未定	未定	未定	证据实为 Mach-1.2 shock wave，即马赫数1.2的激波，非独立术语，一词多义不判定；证据实为 Mach-1.2 shock wave，指马赫数 1.2 的激波，非独立术语
+T0465	density pressure	含未定	未定	未定	证据为「reference density, pressure, and length scale」片段，非独立术语；原文为 reference density, pressure, and length scale
+T0477	across the mixing layer	含未定	未定	未定	片段，跨混合层方向含义需上下文；介词短语，跨层方向含义随上下文变化
+T0483	across the shock	含未定	未定	未定	证据句未含该词，属介词短语，无固定译名；证据句未含该短语，语义随上下文变化
+T0489	across the mixing	含未定	未定	未定	证据实为 across the mixing zone，不宜单列；证据为 across the mixing zone 片段，非独立术语
+T0497	growth rate mixing	含未定	未定	未定	系标题片段误切分，非独立术语；系标题「growth rate, mixing, and anisotropy」误切分，非独立术语
+T0537	Note that the wavelength	含未定	未定	未定	非术语条目；句子片段，非术语
+T0542	mode perturbation	含未定	未定	未定	非本领域语境，一词多义；证据属托卡马克磁控制语境，非本领域，不臆断
+T0554	velocity density	含未定	未定	未定	证据为(velocity, density, pressure)并列，不构成单一词条；证据原文为 (velocity, density, pressure) 列举，不构成词条
+T0560	inside the layer	含未定	未定	未定	证据为介词短语片段，不作词条；证据中为 inside the layer 的普通行文用法
+T0568	tube Shock Waves	含未定	未定	未定	证据为「shock tube」与期刊名「Shock Waves」误拼接，非单一术语；证据为「shock tube」与期刊名 Shock Waves 的错误切分，非独立术语
+T0583	Richtmyer Meshkov instability shock	含未定	未定	未定	疑为 shock tube 截断，不作判定；疑为 shock tube 截断，证据不足；用户裁定名称用 RM
+T0585	initial layer	含未定	未定	未定	无法确定指初始层还是初始界面；证据句未含该词，无法判定
+T0592	instability Shock Waves	含未定	未定	未定	未定；证据为关键词串，不作术语判定
+T0616	stage the amplitude	含未定	未定	未定	未定；证据为分段叙述片段，非独立术语
+T0618	understanding turbulent mixing	含未定	未定	未定	未定；文献标题片段，非术语
+T0621	shock the transmitted shock	含未定	未定	未定	未定；证据为激波位置追踪描述，非术语
+T0637	perturbation amplitude with time	含未定	未定	未定	非独立术语，仅为句中短语，无中文译法证据；证据仅为英文描述性短语，非独立术语，无中文译法依据
+T0659	Inertial Fusion Beam Plasma	含未定	未定	未定	系书名副标题片段，非独立术语；出自书名《The Physics of Inertial Fusion: Beam Plasma Interaction...》，为标题片段
+T0661	interaction between shock wave	含未定	未定	未定	无；未定
+T0663	Introduction When shock wave	含未定	未定	未定	无；未定
+T0664	measure hydrodynamic instability growth	含未定	未定	未定	无；未定
+T0674	Mikaelian Turbulent mixing	含未定	未定	未定	证据为文献引用（Mikaelian 1989 篇名），非术语条目；证据为参考文献条目，不构成术语
+T0675	viscosity surface tension	含未定	未定	未定	证据为并列的两个独立术语 viscosity 与 surface tension，非复合词；黏性与表面张力应分别立目
+T0698	pressure density	含未定	未定	未定	证据为「pressure p, density ρ」并列，不可合为词条；证据为「pressure p, density ρ」列举片段
+T0707	Meshkov growth	含未定	未定	未定	证据为文献标题片段；证据仅为参考文献题名残段；用户裁定名称用 RM
+T0716	Richtmyer Meshkov instability-induced mixing	两遍不一致	Richtmyer-Meshkov不稳定性诱导混合	Richtmyer–Meshkov 不稳定性诱导混合	推测 缩写形式另立条目；用户裁定名称用 RM
+T0733	rate mixing	含未定	未定	未定	证据为标题片段「growth rate, mixing」，疑为切分错误，非独立术语；证据为标题片段，不构成术语
+T0735	measure the shock	含未定	未定	未定	动词短语，非术语；动词短语，不作词条
+T0737	represents the velocity	含未定	未定	未定	动词短语，非术语；句子成分，不作词条
+T0761	Benjamin Instability growth	含未定	未定	未定	文献引用片段，非独立术语；证据为参考文献条目
+T0762	Benjamin Nonlinear growth	含未定	未定	未定	文献引用片段，非独立术语；证据为参考文献条目
+T0764	denotes the velocity	含未定	未定	未定	句子片段，非术语；证据为公式说明文字
+T0765	describe the growth	含未定	未定	未定	句子片段，非术语；证据为行文表述
+T0767	increases the mixing	含未定	未定	未定	句子片段，非术语；证据为行文表述
+T0771	Richtmyer Meshkov Plasma	含未定	未定	未定	证据为文献引用片段，非独立术语；证据疑为期刊名 Physics of Plasmas 片段，非术语；用户裁定名称用 RM
+T0788	ame front	含未定	未定	未定	证据句为激波-气泡内容，与词形不符；en疑为 flame front 截断，证据句未含该词
+T0790	velocity pressure	含未定	未定	未定	非术语，系变量并列；证据为 density、velocity、pressure 变量列举，非单一术语
+T0803	Meshkov instability when rarefaction	含未定	未定	未定	文献标题片段（稀疏波反射时的RMI增长率），非独立术语；证据为标题片段，非独立术语；用户裁定名称用 RM
+T0838	instability occurs when shock	含未定	未定	未定	不可作为词条；证据为句子片段，非术语
+T0839	interactions between the shock	含未定	未定	未定	指激波与流体层相互作用；证据为句子片段，非术语
+T0842	Meshkov instability late-time scaling	含未定	未定	未定	完整形式含 Richtmyer–Meshkov；证据为文献标题片段，非术语；用户裁定名称用 RM
+T0843	Meshkov instability small-scale perturbations	含未定	未定	未定	完整形式含 Richtmyer–Meshkov；证据为文献标题片段，非术语；用户裁定名称用 RM
+T0844	misalignment between the pressure	含未定	未定	未定	指压力梯度与密度梯度不平行；证据为句子片段，非术语
+T0848	Note that the amplitude	含未定	未定	未定	不可作为词条；证据为句子片段，非术语
+T0851	Pullin The Richtmyer-Meshkov instability	含未定	未定	未定	引文片段，不作术语判定；作者名与文献标题拼接，非术语；用户裁定名称用 RM
+T0852	Rayleigh Taylor Shock Waves	含未定	未定	未定	引文片段，不作术语判定；期刊名与主题词拼接，非术语
+T0858	Richtmyer-Meshkov instability small-scale perturbations	两遍不一致	Richtmyer–Meshkov 不稳定性小尺度扰动	Richtmyer-Meshkov 不稳定性小尺度扰动	通用 与 long-wavelength 扰动相对；推测 文献标题片段，无中文译法证据；用户裁定名称用 RM
+T0877	time growth	含未定	未定	未定	原文为 early time growth 片段；证据为 early time growth 片段，单独不可判
+T0886	layer flows	含未定	未定	未定	原文语境为湍流模型系数取值，layer flows 指层状流或剪切层流未确证；证据上下文为湍流模型系数分类，layer 含义不明
+T0912	denotes the pressure	含未定	未定	未定	为句子成分而非术语，不作判定；非术语条目，不作翻译判定
+T0933	impact the perturbation	含未定	未定	未定	证据仅为英文描述性短语，非固定术语；描述性短语，非固定术语
+T0936	Meshkov instability shock	含未定	未定	未定	疑为 shock tube 被截断；疑为 shock tube 被截断；用户裁定名称用 RM
+T0938	reshock Shock Waves	含未定	未定	未定	非术语条目；reshock 宜单列「再激波」
+T0939	shock the perturbation	含未定	未定	未定	描述性短语，译法不唯一；描述性短语
+T0941	wave Shock Waves	含未定	未定	未定	非术语条目；疑为 shock wave 与期刊名混排
+T0945	Richtmyer Meshkov Shock Waves	含未定	未定	未定	含期刊名 Shock Waves，疑为引用拼接，不作术语处理；证据仅为参考文献条目，Shock Waves 为刊名；用户裁定名称用 RM
+T0947	Luo Richtmyer Meshkov instability	含未定	未定	未定	应拆为 Luo 与 Richtmyer–Meshkov instability；证据为引文作者 Luo，非术语；用户裁定名称用 RM
+T0949	shock shock	含未定	未定	未定	可能指激波-激波相互作用，证据不足；证据为示意图标签 Shock 1/Shock 2
+T0955	denotes the amplitude	含未定	未定	未定	不作术语处理；证据为符号说明句
+T0956	determine the growth	含未定	未定	未定	不作术语处理；证据为方法描述句
+T0958	experiments the shock	含未定	未定	未定	未定；证据为目录片段，非术语
+T0970	stage the perturbation	含未定	未定	未定	非固定术语，证据中为 stages 名词用法；证据中 stage 为名词用法，词条形式存疑
+T0972	assume that the flow	含未定	未定	未定	句子片段，不作术语处理；非术语，为句子片段
+T0981	normal shock wave density	含未定	未定	未定	疑为标题切分错误，实为 normal shock wave 与 density discontinuity 两个概念，不宜作单一术语；系标题片段「normal shock wave–density discontinuity interaction」，非独立术语；正激波与密度间断应分列
+T0991	affect the perturbation	含未定	未定	未定	动词短语，非术语；动词短语，非术语
+T0995	capture the shock	含未定	未定	未定	描述性动词短语，非独立术语，证据无中文译法；原文为动词用法，非独立术语
+T0997	decreases the growth	含未定	未定	未定	描述性动词短语，非术语；原文为句子成分，非术语
+T0998	denotes the growth	含未定	未定	未定	描述性动词短语，非术语；原文为公式说明用语，非术语
+T0999	driving the instability	含未定	未定	未定	描述性动词短语，非术语；原文为动名词短语，非术语
+T1000	energy spectrum time	含未定	未定	未定	en 为截断片段，原意为能谱时间演化，不作独立词条；原文实为 energy spectrum time evolution，抽取不完整
+T1001	examine the growth	含未定	未定	未定	描述性动词短语，非术语；原文为句子谓语，非术语
+T1003	Fusion Beam Plasma	含未定	未定	未定	书名片段，非术语；出自书名片段，非术语条目
+T1004	interacting with density	含未定	未定	未定	描述性动词短语片段，非术语；原文为定语成分，非术语
+T1005	Introduction When shock	含未定	未定	未定	非术语，建议回原文重新切分；疑为 shock wave（激波），但 en 字段为残缺片段，不作判定
+T1007	model the growth	含未定	未定	未定	非术语；证据句为模型描述语句
+T1008	model the perturbation	含未定	未定	未定	非术语；证据句为 ZG 模型描述语句
+T1009	predict linear growth	含未定	未定	未定	非术语；证据句为文献评述语句
+T1016	times the growth	含未定	未定	未定	非术语；抽取错误，非术语
+T1032	simulations that the growth	含未定	未定	未定	证据为抽取残句，非术语；未定
+T1034	time when the amplitude	含未定	未定	未定	证据为残句，语义不完整；未定
+T1039	viscosity surface	含未定	未定	未定	切分错误：原文为 viscosity, surface tension 并列项；未定
+T1065	away from the density	含未定	未定	未定	为介词短语片段，不构成术语；片段截取，无法确定对应中文术语
+T1066	capsule surface absorbs energy	含未定	未定	未定	完整句成分，非术语；片段截取，不宜立目
+T1067	denotes the incident shock	含未定	未定	未定	符号说明句片段；片段截取
+T1069	either case spherical capsule	含未定	未定	未定	句段片段；片段截取
+T1071	energy turbulent kinetic energy	含未定	未定	未定	断句错误产生的片段；片段截取，应单列 turbulent kinetic energy
+T1074	gradient across the density	含未定	未定	未定	句段片段，与 density gradient 区分；片段截取，涉及 ∇p 与 ∇ρ 描述
+T1076	meets the ablation front	含未定	未定	未定	动词短语，ablation front 应单列；片段截取，应单列 ablation front
+T1089	vertical downward-firing shock	含未定	未定	未定	原文为 vertical downward-firing shock tube，词条疑为截断，不作定译；原文为 vertical, downward-firing shock tube，词条疑 OCR 残缺，不作定名
+T1104	driver vertical shock	含未定	未定	未定	系标题片段，非独立术语；系标题「dual driver vertical shock tube」截断片段，非独立术语
+T1128	arises when shock wave	含未定	未定	未定	片段；shock wave 宜单列
+T1129	arising from the shock	含未定	未定	未定	片段
+T1131	associated with the shock	含未定	未定	未定	片段
+T1134	away from the front	含未定	未定	未定	片段
+T1135	bifurcates into transmitted shock	含未定	未定	未定	片段；transmitted shock 宜单列
+T1137	causes the mixing layer	含未定	未定	未定	证据为动词短语片段，非术语，不构词条；动词短语，非术语条目
+T1138	Chester The quasi-cylindrical shock	含未定	未定	未定	证据为文献引用残片（作者+题名截断），非术语；疑指 quasi-cylindrical shock tube，需拆分另立条目
+T1139	Clark Farrell Felker Field	含未定	未定	未定	证据为作者姓名列表，非术语；应剔除，不作术语处理
+T1140	classical cylindrical Richtmyer-Meshkov instability	两遍不一致	经典柱形Richtmyer–Meshkov不稳定性	经典柱形Richtmyer-Meshkov不稳定性	推测 仅见英文题名，中文译法按构词直译；推测 classical 强调无磁场等附加效应；用户裁定名称用 RM
+T1141	compressing the mixing layer	含未定	未定	未定	证据为动宾短语片段，非术语；与 T1137 同句，属动作描述
+T1142	conditions for the velocity	含未定	未定	未定	证据为句中片段，原意为界面法向速度分量的连续性条件，非独立词条；建议按 continuity condition 另立条目
+T1143	constant across the layer	含未定	未定	未定	证据为句中描述性片段，非术语；混合长度沿层宽为常数的描述性表述
+T1144	converges the undisturbed shock	含未定	未定	未定	证据为从句片段，非术语；建议按 undisturbed shock radius 另立条目
+T1146	converging shock tube Laser	含未定	未定	未定	证据为引用残片（题名截断+期刊名），非术语；疑指 cylindrical converging shock tube，需拆分另立
+T1149	demonstrates that the perturbation	含未定	未定	未定	证据为从句片段，无对应中文术语；证据为从句片段，缺中心词
+T1150	denotes the initial amplitude	含未定	未定	未定	initial amplitude 单独出现时可译「初始振幅」；证据为谓语片段，非术语
+T1157	equations The eddy viscosity	含未定	未定	未定	疑为 governing equations 与 eddy viscosity 拼接；eddy viscosity 通译「涡黏性」；原文断句错乱，eddy viscosity 另立条目
+T1165	Gehre The transverse field	含未定	未定	未定	Gehre 为作者名；片段非术语
+T1168	gradient across the shock	含未定	未定	未定	证据句未给出完整术语；片段非术语
+T1175	impact the amplitude growth	含未定	未定	未定	动词短语片段，非术语；动宾短语，核心概念 amplitude growth 应另立条目
+T1179	indicate that the amplitude	含未定	未定	未定	句子片段，非术语；从句片段，核心概念 disturbance amplitude 应另立条目
+T1180	indicates that the growth	含未定	未定	未定	句子片段，非术语；从句片段，growth rate 应另立条目
+T1181	indicating that the mixing	含未定	未定	未定	句子片段，非术语；分词从句片段，mixing 的译法需按上下文另定
+T1185	instability arises when shock	含未定	未定	未定	片段不可作术语；核心术语为Richtmyer-Meshkov instability；整句片段，不可作术语
+T1186	instability with reshock Shock	含未定	未定	未定	核心术语为reshock（再激波/二次激波），需单列；片段含 reshock（二次激波），需拆条另判
+T1188	interacting with gas layer	含未定	未定	未定	所在句讨论激波与气体层相互作用；动宾短语，非术语
+T1189	INTRODUCTION The Richtmyer-Meshkov instability	含未定	未定	未定	RMI中文译名（里奇迈尔-梅什科夫/黎克特迈尔-梅什科夫）不统一，暂不判定；应拆为 Richtmyer-Meshkov instability 另判；用户裁定名称用 RM
+T1191	just before the shock	含未定	未定	未定	图注用语；介词短语，非术语
+T1192	just behind the shock	含未定	未定	未定	正文描述用语；介词短语，非术语
+T1198	layer has negligible effect	含未定	未定	未定	非术语，为句子片段（稀疏波诱导边界层影响可忽略）；句子片段，非术语，无法判定
+T1203	Mach number the density	含未定	未定	未定	非术语，为参数列表片段（入射激波马赫数、密度比等）；原文断句残片，非术语
+T1207	Meshkov Rayleigh Taylor Shock	两遍不一致	Richtmyer–Meshkov和Rayleigh–Taylor不稳定性	Richtmyer–Meshkov与Rayleigh–Taylor不稳定性	中文文献 原文为文献条目片段，含期刊名 Shock Waves；中文文献 证据句含现成中文译法；用户裁定名称用 RM
+T1209	mixing transition before reshock	含未定	未定	未定	证据仅为英文描述性短语，无中文译法；证据仅为英文原句，无中文译法可依
+T1213	model for the pressure	含未定	未定	未定	一词多义，指压力-应变关联模型的一部分；证据为Rotta模型片段，一词多义
+T1214	model overestimates the perturbation	含未定	未定	未定	证据为句子片段，非术语；证据为句子片段，非术语
+T1215	model the perturbation growth	含未定	未定	未定	证据为动词短语，非术语；证据为动词短语，非术语
+T1221	Note that the shock	含未定	未定	未定	证据为句子片段，不构成术语；证据为叙述性从句，不构成术语
+T1222	Note that the vorticity	含未定	未定	未定	证据为句子片段，不构成术语；证据为叙述性从句，不构成术语
+T1223	obtained from the pressure	含未定	未定	未定	证据为句子片段，不构成术语；动词短语片段，不构成术语
+T1231	rather than the bubble	含未定	未定	未定	证据句与词条不对应；句子片段，不构成术语
+T1235	regime the growth rate	含未定	未定	未定	linear regime 与 growth rate 应分列；证据为跨词片段（"In the linear regime, the growth rate"），linear regime 应另立词条
+T1237	region outside the mixing	含未定	未定	未定	mixing layer 应单列，此处为片段；证据为片段，核心术语应为 mixing layer（混合层），需另立词条
+T1238	reliability for simulating shock	含未定	未定	未定	评价性表述，非术语；证据为评价性表述片段，非术语
+T1239	required for the shock	含未定	未定	未定	句段片段，非术语；证据为片段（"the time required for the shock wave to traverse"），非术语
+T1246	see that the growth	含未定	未定	未定	原文为"it can be see that the growth rate"，属断句残片；证据为原文残句，非术语
+T1250	shock radius the distance	含未定	未定	未定	实为undisturbed shock radius的括号释义，非独立术语；证据为断句残片，非术语
+T1253	shock waves the shock	含未定	未定	未定	原文断为"rarefaction and shock waves, the shock strength"，属残片；证据为断句残片，非术语
+T1256	shock with the density	含未定	未定	未定	原文断为"incident shock with the density gradient"，属残片；证据为断句残片，非术语
+T1257	short-wavelength perturbations diffusion layer	含未定	未定	未定	证据句与词条不对应，暂不判定；证据仅为界面制备描述片段，非独立术语，无法确定所指
+T1261	suggest that the growth	含未定	未定	未定	非术语词条；句子片段，非术语
+T1271	time where the mixing	含未定	未定	未定	原文片段截断，不作判定；证据为截断短语，非独立术语
+T1278	turbulent mixing shock waves	含未定	未定	未定	关键词列表，不作判定；关键词列表拼接，非单一术语
+T1281	Vortex-accelerated secondary baroclinic vorticity	含未定	未定	未定	出自论文标题，无通行中译；文献标题片段，无中文译法证据
+T1282	words turbulent mixing shock	含未定	未定	未定	证据为 Key words 行，不构成词条；系关键词栏截断，不构成术语
+T1283	Zukoski Progress toward shock	含未定	未定	未定	证据为引文条目；系引文截断
+T1291	Wisconsin Shock	含未定	未定	未定	证据为机构名 Wisconsin Shock Tube Lab；专有机构名片段，非术语
+T1306	Shock Shock Shock	含未定	未定	未定	证据为图注标签拼接，不构成术语；图注标签拼接，非独立术语
+T1336	shock wave density	含未定	未定	未定	证据句为并列列举（激波、密度界面、支撑栅），疑为切分错误，非独立术语；证据句为 shock wave、density interface 并列，疑为断词错误
+T1347	larger growth	含未定	未定	未定	比较性表述，非固定术语；比较性描述短语，非独立术语
+T1349	Meshkov Plasma	含未定	未定	未定	证据为 Plasma Phys. 刊名残片；证据为文献题名与刊名拼接，非术语；用户裁定名称用 RM
+T1368	waves the perturbation	含未定	未定	未定	证据为 deep-water waves 与 perturbation pressure 的拼接；证据为断句残片，非术语
+T1377	ows under reshock	含未定	未定	未定	原文首字母缺失，非完整术语；证据串残缺，不可判定
+T1379	across the surface	含未定	未定	未定	仅描述跨界面压差语境；仅作句法成分
+T1380	affect the growth	含未定	未定	未定	描述膜破裂影响失稳增长；仅作句法成分
+T1381	around the bubble	含未定	未定	未定	原文此处为 around t 截断；证据句本身亦被截断
+T1382	around the shock	含未定	未定	未定	指激波附近数值振荡；仅作句法成分
+T1383	but the perturbation	含未定	未定	未定	句子成分，非术语；仅作句法成分
+T1389	未定	含未定	未定	未定	原文为 found the growth exponent，指“发现增长指数”，非独立词条；证据为句子片段，疑指 growth exponent，不单独成词
+T1390	未定	含未定	未定	未定	原文 Here the velocity field components are，非术语；仅为公式引出语，非术语
+T1391	未定	含未定	未定	未定	完整形式为 measured initial growth rate，宜按“实测初始增长率”另立条目；疑为 measured initial growth rate 的截断
+T1394	未定	含未定	未定	未定	证据句未含该串，无法确认所指；证据句未出现该串，疑为 perturbation diffusion layer 误拼
+T1400	未定	含未定	未定	未定	原文 after IS passes through the layer，非术语；介词短语，非术语
+T1401	traversed the mixing	含未定	未定	未定	非独立术语，建议改判 traverse the mixing layer；证据为动词短语，不宜作术语定名
+T1417	accelerating gas bubble	含未定	未定	未定	证据为论文标题片段；证据为论文标题片段，中文无固定对应
+T1418	affects the instability	含未定	未定	未定	证据为行文片段；证据为句子片段
+T1420	arises when shock	含未定	未定	未定	证据为行文片段；证据为句子片段
+T1422	but the flow	含未定	未定	未定	证据为行文片段；证据为句子片段
+T1423	but the growth	含未定	未定	未定	证据为行文片段；证据为句子片段
+T1424	compare the growth	含未定	未定	未定	证据为行文片段；证据为句子片段
+T1437	how the shock	含未定	未定	未定	证据为句子片段，无法确定对应中文术语；证据为句中片段，不构成术语
+T1439	instabilities Shock Waves	含未定	未定	未定	证据为关键词罗列，非单一术语；证据为关键词列表片段
+T1440	instability simplified perturbation	含未定	未定	未定	出自标题「a simplified perturbation theory」，不可作术语；完整概念为「简化微扰理论」，不宜按片段立目
+T1443	Layer Behind Shock	含未定	未定	未定	完整术语应为 boundary layer behind shock；完整应为 Boundary Layer Behind Shock「激波后边界层」
+T1448	makes the perturbation	含未定	未定	未定	证据为句中动词短语，不可作术语；证据为句中片段，不构成术语
+T1452	nement for shock	含未定	未定	未定	OCR 断字残片，疑为 refinement for shock（激波自适应网格加密），非独立术语；OCR 截断，无法判定
+T1453	Nishihara Asymptotic growth	含未定	未定	未定	文献引用片段（Nishihara 1997 篇名），非术语条目；作者名加标题片段，非术语
+T1454	oblique planar density	含未定	未定	未定	截断片段，完整形式应为 oblique planar density interface（斜置平面密度界面）；OCR 截断，缺 interface
+T1455	once the shock	含未定	未定	未定	句子片段，非术语；非术语
+T1456	overestimates the perturbation	含未定	未定	未定	句子片段，非术语；非术语
+T1458	quantities like temperature	含未定	未定	未定	句子片段，非术语；非术语
+T1460	reducing the growth	含未定	未定	未定	句子片段，非术语；非术语
+T1461	regime the growth	含未定	未定	未定	原文为「in the linear regime, the growth rate…」，疑为解析残片，非独立术语；证据为句子片段，不构成词条
+T1462	Samtaney Planar shock	含未定	未定	未定	Samtaney 为作者姓氏，非术语成分；Samtaney为作者姓氏，非术语成分
+T1473	times the mixing	含未定	未定	未定	证据为时间状语片段，非术语；证据句为 "At much later times, the mixing..."，非独立词条
+T1474	towards the bubble	含未定	未定	未定	方位描述片段，非术语；不可作为术语收录
+T1480	Zhang Richtmyer-Meshkov instability	含未定	未定	未定	系文献引用作者名与术语粘连，非独立词条；证据为参考文献条目切分产物；用户裁定名称用 RM
+T1482	strength shocks	含未定	未定	未定	系 equal strength shocks 截断片段；应作 equal strength shocks（等强度激波）
+T1485	uid with density	含未定	未定	未定	疑为 fluid with density 的断词错误；原文应为 fluid with density，属描述性短语
+T1503	two-phase flow	缺一遍判定			
+T1508	bow shock	缺一遍判定			
+T1518	small-scale turbulence	缺一遍判定			
+T1542	consider shock	含未定	未定	未定	例句中动词短语，非术语；抽取片段，不构成词条
+T1571	Richtmyer Meshkov Shock	含未定	未定	未定	证据为参考文献条目，非术语使用实例；证据仅出现 Richtmyer–Meshkov 不稳定性，未给出该词组译法；用户裁定名称用 RM
+T1588	higher shock	含未定	未定	未定	语境指更高马赫数激波，非独立术语；比较级短语，指更高马赫数激波，非独立术语
+T1595	Luo Mode	含未定	未定	未定	人名命名模式，中文译名未见通行用法；人名命名模态，中文无通行译法
+T1610	Taylor Boussinesq turbulence	含未定	未定	未定	复合冠名术语，未见确定中文译法；原文为「Rayleigh-Taylor, Boussinesq turbulence」断句，非独立术语
+T1614	velocity versus time	含未定	未定	未定	描述性短语，非固定术语；描述性短语，非术语
+T1627	entire shock	含未定	未定	未定	证据中为 entire shock tube 片段，词条不完整；证据中 entire 修饰 shock tube，非独立术语
+T1637	Jacobs Shock	含未定	未定	未定	Jacobs 为人名，后接篇名片段；系作者名加篇名片段，非术语
+T1639	layer effects	含未定	未定	未定	需确认是否指边界层效应；需上下文确定是边界层还是分层效应
+T1640	like temperature	含未定	未定	未定	属行文片段，不可作词条；非术语
+T1655	represents velocity	含未定	未定	未定	证据为句子片段，不构成术语；未定
+T1657	simulating shock	含未定	未定	未定	证据为句子片段，不构成术语；未定
+T1659	spectrum time	含未定	未定	未定	原句为 energy spectrum time evolution，不可拆为独立术语；未定
+T1663	Ueshima Instability	含未定	未定	未定	人名音译未定，暂不臆造；未定
+T1676	Heat Fluid Flow	含未定	未定	未定	期刊缩写残片，非术语；疑为 International Journal of Heat and Fluid Flow 截断，不作术语判定
+T1715	across the density	含未定	未定	未定	介词短语片段，非术语；指跨越密度梯度施加压力梯度；介词短语片段，非独立术语
+T1717	called the pressure	含未定	未定	未定	句子片段，非术语；对应中文「压强」；片段；pressure 本身有压强/压力两译
+T1719	consider shock wave	含未定	未定	未定	句子片段，非术语；例句片段，非术语
+T1725	dominates the perturbation	含未定	未定	未定	无；非术语，属动词短语
+T1726	downward- ring shock	含未定	未定	未定	无；证据仅见 downward-firing shock tube
+T1728	even before reshock	含未定	未定	未定	无；reshock 宜另立词条
+T1736	just after reshock	含未定	未定	未定	无；reshock 宜另立词条
+T1737	length scales mixing	含未定	未定	未定	证据为并列短语 turbulent length scales、mixing transition，非单一术语，无法定译；原文为「turbulent length scales, mixing transition」并列项，非单一术语
+T1740	meets the ablation	含未定	未定	未定	证据为 meet the ablation front 的截断，非独立术语；片段不完整，不宜单独定名
+T1762	toward the region	含未定	未定	未定	非术语，为普通方位短语；介词短语，非术语，不判定
+T1779	shocked layer	含未定	未定	未定	中文译法不统一，暂不拟定；shock layer 另有含义，易混
+T1788	acceleration the growth	含未定	未定	未定	证据为句子片段，非术语；证据为断裂短语，非独立术语
+T1789	across the bubble	含未定	未定	未定	介词短语片段，非术语；介词短语，非术语
+T1790	Alamos vertical shock	含未定	未定	未定	系 Los Alamos vertical shock tube 截断片段，非独立术语；系 Los Alamos vertical shock tube 的截断片段
+T1791	allow the laser	含未定	未定	未定	动词短语片段，非术语；句子片段，非术语
+T1794	Approximating the shock	含未定	未定	未定	动名词短语片段，非术语；动名词短语，非术语
+T1796	associated with velocity	含未定	未定	未定	分词短语片段，非术语；句子片段，非术语
+T1797	assuming the pressure	含未定	未定	未定	抽取片段，不作术语判定；证据为教材习题句，非术语
+T1801	but the amplitude	含未定	未定	未定	抽取片段，不作术语判定；证据为正文连接句
+T1802	but the mixing	含未定	未定	未定	抽取片段，不作术语判定；证据为正文连接句
+T1803	but the pressure	含未定	未定	未定	抽取片段，不作术语判定；证据为正文连接句
+T1804	causes the mixing	含未定	未定	未定	抽取片段，不作术语判定；证据为正文连接句
+T1806	Colloquium Magnetohydrodynamic turbulence	含未定	未定	未定	标题片段，若需词条应为 magnetohydrodynamic turbulence；若单列 magnetohydrodynamic turbulence 可另判
+T1807	compressing the mixing	含未定	未定	未定	抽取片段，不作术语判定；证据为正文连接句
+T1808	compute the spectrum	含未定	未定	未定	抽取片段，不作术语判定；证据为方法步骤句
+T1810	confinement fusion Shock	含未定	未定	未定	证据为参考文献标题片段 inertial confinement fusion，非独立术语；证据为参考文献题名片段（inertial confinement fusion, Shock Waves），非术语
+T1811	Consider the spectrum	含未定	未定	未定	句段非术语；句内动词短语，非术语
+T1812	consider the surface	含未定	未定	未定	句段非术语，实指 surface tension effect；句内动词短语（consider the surface tension effect），非术语
+T1814	create diverging laser	含未定	未定	未定	句段非术语，实指 diverging laser sheet；句内动词短语（create a diverging laser sheet），非术语
+T1815	deformed converging shock	含未定	未定	未定	句段非术语；句内片段，中文译法未见通行定名
+T1816	delay between shock	含未定	未定	未定	句段非术语，实指两激波间时间延迟；句内片段（time delay between shocks），非独立术语
+T1817	demonstrate that turbulence	含未定	未定	未定	句段非术语；句内从句片段，非术语
+T1818	describe the mixing	含未定	未定	未定	句段非术语；句内动词短语，非术语
+T1819	determine the flow	含未定	未定	未定	句段非术语，实指 flow rate；句内动词短语（determine the flow rate），非术语
+T1820	determine the shock	含未定	未定	未定	句段非术语，实指 shock Mach numbers；句内动词短语（determine the shock Mach numbers），非术语
+T1824	down the shock	含未定	未定	未定	证据为 down the shock tube 片段，非独立术语；未定
+T1829	entering the mixing	含未定	未定	未定	证据为 entering the mixing zone 片段；未定
+T1834	experiment the perturbation	含未定	未定	未定	解析错误，实为 in the experiment, the perturbation...；抽取片段，非术语
+T1835	experiment the wavelength	含未定	未定	未定	解析错误，实为 in the experiment, the wavelength of II1...；抽取片段，非术语
+T1838	Farrell Felker Field	含未定	未定	未定	文献作者名，非术语；抽取片段，非术语
+T1841	flows the mixing	含未定	未定	未定	解析错误，实为 for the reacting flow, the mixing efficiency...；抽取片段，非术语
+T1843	form heavy layer	含未定	未定	未定	疑为界面描述句截断；抽取片段，非术语
+T1845	gives growth rate	含未定	未定	未定	证据仅为句子片段，无对应中文术语；组合性短语，非独立术语，不单列译名
+T1846	governing the flow	含未定	未定	未定	属句子成分，不作术语处理；组合性短语，随上下文译为「控制流动」或「支配流动」
+T1847	growth after phase	含未定	未定	未定	片段式表述，无固定中文译名；原文为 after a phase change 的截断，语义依赖上下文
+T1849	have characteristic velocity	含未定	未定	未定	句子成分，不作术语处理；组合性短语，非术语
+T1850	have growth rate	含未定	未定	未定	句子成分，不作术语处理；组合性短语，非术语
+T1851	Heat Transfer Turbulence	含未定	未定	未定	原文断句所致，非术语；抽取边界错误，不应作为术语
+T1857	impact the velocity	含未定	未定	未定	句子片段，非术语，不臆造译名；证据为疑问句中的普通动词短语，非领域术语
+T1859	include the velocity	含未定	未定	未定	句子片段，非术语；证据为定语从句中的普通动词短语
+T1861	increases the amplitude	含未定	未定	未定	句子片段，非术语；证据为陈述句中的普通动词短语
+T1862	increasing the surface	含未定	未定	未定	句子片段，非术语；证据中 surface 指表面积，非术语
+T1863	induces perturbation growth	含未定	未定	未定	句子片段，非术语；证据为句子谓语部分，非术语
+T1872	instability the amplitude	含未定	未定	未定	证据为行文片段，不构成词条；证据为句子片段，不构成词条
+T1873	instability using front	含未定	未定	未定	实为 front tracking 方法表述；证据为标题片段，不构成词条
+T1874	instability wall effects	含未定	未定	未定	实为 wall effects（壁面效应）与 RMI 并列；证据为标题片段，不构成词条
+T1877	investigate the growth	含未定	未定	未定	动词短语，非术语；证据为句子片段，不构成词条
+T1878	investigate the instability	含未定	未定	未定	动词短语，非术语；证据为句子片段，不构成词条
+T1888	Later the growth	含未定	未定	未定	句子片段，非术语，不作判定；非术语，仅为行文片段
+T1898	mixing shock waves	含未定	未定	未定	关键词列表拼接，非单一术语；证据为关键词列表拼接，非独立术语
+T1908	near the spike	含未定	未定	未定	不可作词条；spike 应译「尖钉」，但整串非术语
+T1910	nement fusion capsule	含未定	未定	未定	原文残缺，不作判定；原文截断，无法判定
+T1911	Note that pressure	含未定	未定	未定	不可作词条
+T1913	obtain the velocity	含未定	未定	未定	不可作词条
+T1915	outside this region	含未定	未定	未定	不可作词条
+T1916	overestimates the growth	含未定	未定	未定	不可作词条
+T1919	plans for laser	含未定	未定	未定	标题片段，不作术语判定；出自 NIF 标题，不作术语收录
+T1921	Pope Turbulent Flows	含未定	未定	未定	书名，不作术语判定；书名保留原文
+T1929	Reduced instability growth	含未定	未定	未定	证据仅为英文标题片段，无中文译法依据；无中文译法证据，不作臆测
+T1931	regarding the growth	含未定	未定	未定	介词性片段，非术语；证据为句子片段
+T1932	regarding the shock	含未定	未定	未定	介词性片段，非术语；证据为句子片段
+T1933	relationship between vorticity	含未定	未定	未定	截断片段，非独立术语；证据为句子片段
+T1934	Remington Turbulent mixing	含未定	未定	未定	系作者名加文献标题片段，非术语；作者名加篇名片段
+T1936	represents the amplitude	含未定	未定	未定	句子片段，非术语；证据为句子片段
+T1937	represent the pressure	含未定	未定	未定	句子片段，非术语；证据为句子片段
+T1938	represents the region	含未定	未定	未定	句子片段，非术语；证据为句子片段
+T1941	Reynolds number turbulence	含未定	未定	未定	证据为描述性短语，非独立术语；证据为描述性短语，非固定术语，中文译名无据
+T1952	shock tube Laser	含未定	未定	未定	非术语，系参考文献截断；证据为期刊名缩写（Laser Part. Beams）截断，非术语
+T1957	Sketch the velocity	含未定	未定	未定	证据为残句，非术语；证据为图注与正文残片，非术语
+T1962	stage the growth	含未定	未定	未定	证据为残句，非术语；证据为 at early stages the growth 的断句残片
+T1967	Sturtevant Shock Waves	含未定	未定	未定	文献引用，非术语；Sturtevant 发表于期刊 Shock Waves 的引文
+T1972	time the shock	含未定	未定	未定	原文为 at this time the shock wave…，切分错误；at this time the shock wave 的截断
+T2021	Meshkov Shock	含未定	未定	未定	证据为参考文献条目残片，非术语；证据为参考文献片段，疑为Richtmyer–Meshkov被截断，无法判定；用户裁定名称用 RM
+T2052	continuous pressure	含未定	未定	未定	证据句被截断，无法确定指连续压力扰动还是持续压力作用；原文为 continuous pressure perturbation 截断，中文译法无据
+T2058	across shock	含未定	未定	未定	原文为标题「Discontinuity across a shock wave」，非独立术语；原文为 across a shock wave 的介词短语，非独立术语
+T2086	appropriate velocity	含未定	未定	未定	原文为描述性短语，非固定术语；原文为形容词+名词的普通搭配，非术语
+T2097	indicate shock	含未定	未定	未定	非术语，为图注动词短语，无对应中文术语；非术语，为图注动词短语，无对应中文译名证据
+T2099	Instability mixing	含未定	未定	未定	系标题并列词，非复合术语；系标题并列词，非复合术语
+T2142	Felker Field	含未定	未定	未定	作者姓名，不作术语判定；作者姓名，不作术语判定
+T2146	fusion Shock	含未定	未定	未定	疑为「inertial confinement fusion, Shock Waves」期刊名截断；原文应为「inertial confinement fusion, Shock Waves」期刊名被截断
+T2159	instabilities Shock	含未定	未定	未定	证据为关键词串拼接，非独立术语；证据为关键词串，非术语
+T2161	length velocity	含未定	未定	未定	证据为量纲分析中尺度列表，非术语；证据为量纲分析列举，非术语
+T2164	Markstein Flow	含未定	未定	未定	证据为文献著者与题名片段，非术语；证据为文献条目片段，非术语
+T2204	wave density	含未定	未定	未定	证据句为「shock wave, density interface」并列，非该词条；证据为 shock wave 与 density interface 的误切分，非术语
+T2214	Post-incident shock	含未定	未定	未定	证据中作 Atwood 数的定语，疑为「入射激波后」，非独立术语；post-incident shock 含义不明，可能指入射激波通过后
+T2220	outgoing bubble	含未定	未定	未定	证据句未出现该词的中文译法，且与 spike 对应关系不明；证据句未出现该词，无中文出处，不臆造
+T2258	velocity energy	含未定	未定	未定	证据句为群速度与能量通量，非该词条；证据句为群速度与能量通量，疑为断词错误
+T2262	desired shock	含未定	未定	未定	仅见于优化流程描述，无固定译法；证据句残缺，无法确定所指激波
+T2265	higher growth	含未定	未定	未定	证据中为 higher growth rate 的截断，非独立术语；仅见于 higher growth rate 表述
+T2274	RMI shock	含未定	未定	未定	证据仅为图注标签「RMI: Shock tube」，未构成术语；不可与 RMI 本身混同
+T2286	has density	含未定	未定	未定	证据为句子片段，非术语；证据为句子片段，非术语
+T2315	Flow Flow	含未定	未定	未定	原文重复排版错误，无法确定所指术语；疑为章节标题重复的排版/OCR 残留，非术语
+T2324	ingoing bubble	含未定	未定	未定	证据句未出现该词，收敛几何中气泡运动方向含义待核；会聚/发散几何中气泡的向内运动，中文译法未见统一
+T2325	jump Growth	含未定	未定	未定	证据为表格栏目残片，jump 与 Growth 应分列；证据为表格列名片段，jump 与 Growth 分属「velocity jump」与「Growth rate」两列，无法确定单一术语
+T2332	positive pressure	含未定	未定	未定	单独出现歧义，勿译作「正压」（barotropic）；中文「正压」在流体力学中固定指 barotropic，与此处 positive 易混，故不判定
+T2342	temperature density	含未定	未定	未定	证据为属性罗列片段，非术语；证据为并列物性罗列，非复合术语
+T2350	ablates pressure	含未定	未定	未定	证据句为「ablates, pressure」断句残片，非术语；原文为 ablates, pressure accelerates，属抽取错误
+T2351	Advanced Mixing	含未定	未定	未定	证据为装置名称片段（Shock Tube and Advanced Mixing），非术语；属 Shock Tube and Advanced Mixing 设施名
+T2352	amplitude phase	含未定	未定	未定	证据为「shock amplitude (phase 4)」断句残片，非术语；非复合术语
+T2359	complex waves	含未定	未定	未定	证据句未出现该词，无法判定所指；抽取片段缺失
+T2365	distinct flow	含未定	未定	未定	原文为 distinct flow patterns，distinct 为修饰语；形容词+名词组合，非术语
+T2375	has surface	含未定	未定	未定	证据为完整句片段，不作词条；断句产物，不构成术语
+T2380	instability Time	含未定	未定	未定	证据为图注截断，不作词条；图注断句产物
+T2398	phase shock	含未定	未定	未定	证据中为 phase-1/phase-3 shock 的阶段修饰，非独立术语；证据中为 phase-1/phase-3 shock，指激波演化阶段而非独立术语
+T2407	RTS Reshock	含未定	未定	未定	表头片段，RTS 与 Reshock 组合含义不确定；证据为图表标签，RTS 疑为反射激波缩写，无法确证
+T2415	Sturtevant Shock	含未定	未定	未定	证据为参考文献条目，非术语；证据为文献引用（作者 Sturtevant，期刊 Shock Waves），非术语
+T2445	averaged turbulence	含未定	未定	未定	证据仅为 conventionally averaged 片段，非独立术语；证据仅为英文原文，无对应中文译法，词义不明确
+T2446	Bonazza Shock	含未定	未定	未定	系参考文献作者名与篇名片段，非术语；证据为文献作者与篇名片段，非术语
+T2448	but growth	含未定	未定	未定	证据为句子片段 but growth stagnation，非术语；证据为句子片段，非术语
+T2455	Comments Plasma	含未定	未定	未定	系期刊名缩写 Comments Plasma Phys.，非术语；证据为期刊名缩写，非术语
+T2459	concentration density	含未定	未定	未定	证据句未含该词，语义不明；证据句未含该词，含义不明
+T2469	density shock	含未定	未定	未定	证据仅为 high energy density shock（高能量密度激波），非独立术语 density shock；证据仅为 high energy density shock（高能量密度激波），非独立术语
+T2477	distinct instability	含未定	未定	未定	证据为否定句 not a distinct instability，非术语；原文为否定式描述，非术语
+T2483	elds velocity	含未定	未定	未定	证据为 fields 的 OCR 残词，非独立术语；证据为 fields 的断词残片，非独立术语
+T2489	erent density	含未定	未定	未定	证据为 different 的 OCR 残词，非术语；证据为 different 的断词残片，非独立术语
+T2492	Example Velocity	含未定	未定	未定	证据为例句中 for example a velocity，非术语；证据为例句中 example 与 velocity 的误连，非术语
+T2493	except pressure	含未定	未定	未定	非独立术语，仅为「除压力相关项外」的片段
+T2502	gives growth	含未定	未定	未定	非术语，为「给出增长率」的谓语句片
+T2505	greater shock	含未定	未定	未定	证据中仅为 greater shock strength 的比较级修饰语，非独立术语；证据中为 greater shock strength 的截断，不宜立目
+T2506	greater vorticity	含未定	未定	未定	证据中为 greater vorticity deposition 的比较级修饰语，非独立术语；证据中为 greater vorticity deposition 的截断
+T2507	group bubble	含未定	未定	未定	系 renormalization group bubble merger 的误切分，group 属前词；原文为 renormalization group bubble merger model
+T2509	have growth	含未定	未定	未定	证据为 have growth rate of this form 的谓语片段，非术语；不可作为词条
+T2512	higher perturbation	含未定	未定	未定	证据中为 higher perturbation amplitude 的比较级修饰语；证据中为 higher perturbation amplitude 的截断
+T2513	highest velocity	含未定	未定	未定	证据中为实验工况描述性比较级，非术语；无术语地位
+T2518	include pressure	含未定	未定	未定	证据为句内动词短语，非术语；证据为句内动词短语，非独立术语
+T2519	including shock	含未定	未定	未定	证据为句内成分，非术语；证据为「包括激波马赫数」句内片段
+T2520	induces perturbation	含未定	未定	未定	证据为句内动词短语，非术语；证据为动词短语「诱导扰动增长」，非独立术语
+T2523	instabilities Laser	含未定	未定	未定	证据为参考文献刊名片段，非术语；证据为文献引用片段「Laser Part.」，非术语
+T2525	instability Plasma	含未定	未定	未定	证据为参考文献刊名片段，非术语；证据为文献引用片段「Plasma Phys.」，非术语
+T2531	jets mixing	含未定	未定	未定	未定；证据为 wakes, jets, mixing layers 并列列举，非复合术语，疑为切分错误
+T2536	lent Mixing	含未定	未定	未定	未定；OCR断词残片，实为 Turbulent Mixing（湍流混合），不作独立词条
+T2538	linear spectrum	含未定	未定	未定	未定；证据中 linear 指谱图坐标轴取线性，非术语「线性谱」
+T2544	lower mixing	含未定	未定	未定	证据为比较级短语「较低的混合效率」，非独立术语；证据中为 lower mixing efficiency 的截断
+T2545	Luo Shock	含未定	未定	未定	图中装置标签与人名组合，非术语；出自 Liang 和 Luo 2021 图注标签
+T2551	Menon Growth	含未定	未定	未定	文献作者名与标题片段，非术语；出自参考文献条目 Menon, Growth rate predictions…
+T2554	mixing shock	含未定	未定	未定	证据仅为关键词，未见该词条明确译法；证据仅为关键词，未见该词条使用
+T2572	parameter density	含未定	未定	未定	证据为 b parameter 片段，非独立术语；证据为 b parameter (density self-correlation)，非独立术语
+T2576	position velocity	含未定	未定	未定	证据为并列词表片段，非独立术语；证据为并列列举 position, velocity, acceleration，非复合术语
+T2581	pressure shock	含未定	未定	未定	证据中为高压相/低压激波对比；证据句内为修饰性用法
+T2589	remaining flow	含未定	未定	未定	证据仅为普通措辞「其余流动条件」，非固定术语；证据中为 remaining flow conditions（其余流动条件）的普通表述，非领域术语
+T2592	right vorticity	含未定	未定	未定	证据中 right 指图幅右侧，非术语成分；证据为图注中 on the right 与 vorticity magnitude 的拼接，非术语
+T2593	scaled density	含未定	未定	未定	证据为 scaled density gradients，指自适应判据，非独立术语；证据为 scaled density gradients，指自适应加密判据，译法不唯一
+T2594	Schneider Density	含未定	未定	未定	实为作者名与文献标题片段，非术语；证据为参考文献作者名与篇名片段，非术语
+T2598	see shock	含未定	未定	未定	证据为动词用法「界面先遇到激波」，非术语；证据中 see 为「经历」的动词用法，非术语
+T2600	sharp transition	含未定	未定	未定	证据指滤光片陡峭过渡带，非本领域固定术语；证据指滤光片陡峭过渡带，与界面失稳语境不同，一词多义
+T2601	sharper density	含未定	未定	未定	片段 sharper density gradients，无中文译法证据；证据仅为 sharper density gradients 片段，不构成词条
+T2603	showing shock	含未定	未定	未定	非术语；证据为 showing shock trajectories 的图注片段
+T2604	sinusoidal density	含未定	未定	未定	片段 sinusoidal density inhomogeneity；原句为 sinusoidal density inhomogeneity，宜整体译
+T2606	so-called mixing	含未定	未定	未定	非术语；应判定 mixing transition 而非本片段
+T2610	steeper density	含未定	未定	未定	片段 steeper density gradients；证据为 steeper density gradients 片段
+T2612	strong velocity	含未定	未定	未定	片段 strong velocity gradients；片段不构成术语，宜整体译「强速度梯度」
+T2613	Sturtevant Growth	含未定	未定	未定	出自Sturtevant 1989文献标题引用，非独立词条；为 Sturtevant 1989 论文引用，非术语
+T2618	time shock	含未定	未定	未定	分词错误产物；非术语，属分词错误
+T2619	Time Velocity	含未定	未定	未定	分词错误产物；非术语，属分词错误
+T2621	Tommasini Field	含未定	未定	未定	参考文献列表分词产物；参考文献作者列表片段
+T2622	Transfer Turbulence	含未定	未定	未定	分词错误产物；非术语，属分词错误
+T2623	tube Laser	含未定	未定	未定	分词错误产物；非术语，属分词错误
+T2627	underlying mixing	含未定	未定	未定	证据句未给出对应中文译法，词义依赖上下文；证据句未给出对应中文译法，含义依赖上下文
+T2637	width mixing	含未定	未定	未定	证据仅为「integral width mixing parameter」，属切分伪词；证据为「integral width mixing parameter」的切分残片，非独立术语
+T2638	Williams Growth	含未定	未定	未定	证据为参考文献条目，非术语出处；证据为文献引用（Williams 论文题名）切分残片，非术语
+T2639	words instability	含未定	未定	未定	证据为关键词行，instability 单独成词；证据为关键词栏「Key words」切分残片，非术语
+T2640	Youngs Laser	含未定	未定	未定	证据为参考文献条目，非术语出处；证据为参考文献「Youngs, Laser Part.」切分残片，非术语
+X0014	turbulent	两遍不一致	湍流的	湍流	通用 作定语修饰 mixing/flow 时用「湍流」；通用 作定语时多写「湍流的」
+X0049	Taylor instability in shock	含未定	未定	未定	仅为文献标题片段，非独立术语，无中文译法证据；仅为文献标题片段，无中文译法证据
+X0050	instability in shock acceleration	含未定	未定	未定	标题片段，语义依赖上下文，无中文出处；标题片段，无通行中文定名
+X0054	instability in shock	含未定	未定	未定	标题片段，无独立术语地位；标题片段，无中文出处
+X0055	acceleration of compressible	含未定	未定	未定	标题片段，非术语；标题片段，非独立术语
+X0064	front	含未定	未定	未定	证据为 front end「前端」，非本领域术语；亦可能指波前；证据为 front end（前端），与波前/前沿义项冲突，一词多义
+X0067	scheme	含未定	未定	未定	证据为 color scheme「配色方案」，另有数值格式义，一词多义；证据为 color scheme（配色方案），与格式/图式义项并存
+X0074	gases accelerated by shock	含未定	未定	未定	证据缺失（p.0），无法判定；证据为空（p.0），无据可依
+X0120	instability of an air	含未定	未定	未定	为「instability of an air/SF6 interface」片段，非独立术语；原文截断为 air/SF6 界面短语，非独立术语
+X0160	Richtmyer Taylor instability	含未定	未定	未定	罕见同义名，中文无固定译法，通行作 Richtmyer–Meshkov；与 Richtmyer–Meshkov 非同一词，中文译名无确证
+X0161	instability Phys	含未定	未定	未定	证据为空，疑为文献片段；证据为空，疑为文献片段误切
+X0163	single-mode Richtmyer	含未定	未定	未定	术语被截断，仅存限定词；截断片段，全称应为 single-mode Richtmyer–Meshkov
+X0165	Richtmyer Taylor	含未定	未定	未定	截断片段，中文无固定译法；同 X0160，中文译名无确证
+X0177	Experiments on the Richtmyer	含未定	未定	未定	标题截断片段，非术语；证据为截断题名片段，无法判定
+X0181	Meshkov RM	含未定	未定	未定	证据仅为 RM 缩写片段，不构成独立词条；证据中作 RM unstable layer，建议核对原词；用户裁定名称用 RM
+X0206	turbulence in shock-driven	含未定	未定	未定	未定；仅为论文标题片段，非独立术语
+X0209	Mach shock	含未定	未定	未定	未定；证据为 Mach 1.2 shock，属参数描述而非术语
+X0217	Laser Part	含未定	未定	未定	证据仅为截断的期刊名片段，无法判定；证据仅为参考文献片段，不作术语处理
+X0228	interface has	含未定	未定	未定	证据为句中截断，非术语；证据为截断句，不作术语判定
+X0242	shock has	含未定	未定	未定	非术语，为句子片段；证据为句子片段，非术语
+X0247	velocimetry PIV	含未定	未定	未定	截断片段，完整形式见 particle image velocimetry；输入为片段，规范词条见 particle image velocimetry
+X0252	measurements of the Richtmyer	含未定	未定	未定	非术语，为标题截断片段；证据为片段且页码为 p.0，无法判定
+X0270	investigation of the turbulent	含未定	未定	未定	标题片段，非独立术语，无法给出确定译名；原文为论文标题片段「experimental investigation of the turbulent mixing transition」，非独立术语
+X0276	Meshkov instability growth	含未定	未定	未定	截断的专名片段，指 RM 不稳定性增长，不宜单独定名；原文为「Richtmyer–Meshkov instability growth」的截断片段，非独立术语；用户裁定名称用 RM
+X0277	instability growth in gas	含未定	未定	未定	证据仅为英文标题片段，无对应中文术语，不作臆造；证据仅为英文标题片段，无中文译法依据
+X0278	growth in gas curtain	含未定	未定	未定	证据为英文标题片段；gas curtain 虽通译「气帘」，但整条非独立术语；证据仅为英文标题片段，无中文译法依据
+X0279	initial conditions on turbulent	含未定	未定	未定	证据句被截断，语义不完整，无法判定；证据句被截断，无法确定完整术语
+X0281	acoustic	含未定	未定	声学的	单词多义（声学的／声波的），证据仅出现于 surface acoustic waves 中；仅作修饰语，SAW 译「表面声波」
+X0293	conditions on turbulent	含未定	未定	未定	疑为 initial conditions on turbulent mixing 的残片；原文片段截断，无法确定所指
+X0296	simulation of turbulent	含未定	未定	未定	疑为 numerical simulation of turbulent mixing 的残片；原文片段截断，缺 mixing 等中心词
+X0313	interface subjected	含未定	未定	未定	片段，不构成词条；原文为 interface subjected to a rippled shock wave，术语应为 interface
+X0315	instability has	含未定	未定	未定	片段，不构成词条；证据句内容为应用背景列举
+X0327	flow turbulence	含未定	未定	未定	未定；切分错误，不应合为一词
+X0328	induced flow turbulence	含未定	未定	未定	未定；切分错误
+X0329	simulation of compressible	含未定	未定	未定	未定；标题截断，非完整术语
+X0333	model of the nonlinear	含未定	未定	未定	未定；标题截断，非完整术语
+X0349	mixing generated	含未定	未定	未定	证据仅为论文标题片段，不作术语判定；仅为文献标题片段，非独立术语
+X0363	instability of heavy	含未定	未定	未定	证据为标题截断片段，非完整术语；证据为标题截断片段，非独立术语
+X0365	mixing for sustained	含未定	未定	未定	证据为标题截断片段，非术语；证据为标题片段，非独立术语
+X0369	shock wave Fluid Dyn	含未定	未定	未定	证据为期刊名截断，非术语；证据为期刊名 Fluid Dynamics 的截断，非术语
+X0370	instability of superposed	含未定	未定	未定	证据为标题截断片段，非术语；证据为标题片段，完整术语应为 instability of superposed fluids
+X0382	reshocked Richtmyer Meshkov	两遍不一致	再激波 Richtmyer–Meshkov 不稳定性	再激波Richtmyer–Meshkov不稳定性	推测 reshock 亦译「二次激波」；推测 中文亦见「二次激波」；用户裁定名称用 RM
+X0387	analysis of turbulent	含未定	未定	未定	证据为空，且为残缺短语；证据为空，且为短语片段非术语
+X0391	instabilities with all density	含未定	未定	未定	证据为空，且为残缺短语；证据为空，短语不完整
+X0393	layer after reshock velocity	含未定	未定	未定	文献题名切分片段，非独立术语；论文标题片段，非独立术语
+X0400	shock-induced mixing to supersonic	含未定	未定	未定	原文为标题片段（Applications of shock-induced mixing to supersonic combustion），不作术语判定；为文献标题片段（Applications of shock-induced mixing to supersonic combustion），非独立术语，不作判定
